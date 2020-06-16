@@ -17,6 +17,7 @@ public class SecondTest {
 	@Test(priority = 1)
 	public void secondprint1() {
 		System.out.println("SecondTest 1");
+		System.out.println("SecondTest 2");
 		
 	}
 

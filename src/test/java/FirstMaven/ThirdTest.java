@@ -19,6 +19,7 @@ WebDriver driver = abc.a();
 	public void thirdprint1()
 	{
 		System.out.println("ThirdTest 1");
+		System.out.println("ThirdTest 2");
 	}
 	@Test(priority = 2)
 	 public void openurl3() throws InterruptedException, IOException 
